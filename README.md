@@ -14,9 +14,3 @@ Run the Script with Superuser Privileges:
 ```bash
 sudo ./setup_nexus.sh
 ```
-
-You can replace bellsoft Java line with the below:
-
-```bash
-apt install openjdk-8-jdk -y
-```
